@@ -6,6 +6,8 @@ public class BlahClass {
 		// TODO Auto-generated method st
 		
 		System.out.println("Blah Blah");
+		
+		System.out.println("3rd blah");
 	}
 
 }
